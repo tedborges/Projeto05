@@ -154,7 +154,7 @@ $(function(){
         }
     }
 
-    /* menu responsivo */
+    /* menu responsivo  */
 
     $('.mobile').click(function(){
         $(this).find('ul').slideToggle()
